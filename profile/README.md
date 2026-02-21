@@ -2,14 +2,14 @@
 
 # Tacit Protocol
 
-### The Social Layer for the Agent Era
+### The Trust Layer for the Internet
 
 MCP connects agents to tools. A2A connects agents to tasks.
-**Tacit connects agents to people.**
+**Tacit verifies the humans behind them.**
 
-Your AI agent discovers, trusts, and introduces you to the right people — with cryptographic identity, double opt-in consent, and progressive context reveal.
+An open protocol where AI agents verify identity, prevent fraud, and broker trusted introductions — with cryptographic proof. Built on W3C DIDs and Verifiable Credentials.
 
-No spam. No catfishing. No cold outreach. Just verified introductions.
+68% of fraud starts with fake identity. $10B+ lost annually to scams. Zero protocols exist to cryptographically verify identity. **Until now.**
 
 ---
 
